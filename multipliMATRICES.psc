@@ -15,7 +15,7 @@ Algoritmo multipliMATRICES
 			MatrizC(i,j)=MatrizA(i,j)*MatrizB(i,j)
 		FinPara
 	FinPara
-	
+	// se hace bucle de manera de repetición
 	Escribir "La primer matriz es"
 	Para i=0 hasta 2 hacer
 		Para j=0 hasta 2 Hacer
